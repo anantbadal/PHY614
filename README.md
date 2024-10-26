@@ -1,6 +1,6 @@
 # PHY614
 
-## Classical Electrodynamins 2
+## Classical Electrodynamics 2
 
 **Course Instructor:** Gautam Sengupta, IIT Kanpur
 
