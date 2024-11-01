@@ -10,8 +10,8 @@
 **4.**  Show that the Lorentz transformation leaves the quantity $s^2=x^2+y^2+z^2-c^2t^2$ invariant.
 
 **5.**  Show that for a general boost $\vec{\beta}$, the time coordinates $t'$ and $t$ in the frames $S'$ and $S$ are related by
-        
-        $$t'=\gamma\left(t-\frac{\vec{\beta}\cdot\vec{r}}{c}\right)$$.
+
+$\displaystyle t'=\gamma\left(t-\frac{\vec{\beta}\cdot\vec{r}}{c}\right)$
 
 **6.**  Read starlight aberration from any book.
 
