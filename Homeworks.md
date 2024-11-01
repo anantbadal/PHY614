@@ -14,7 +14,7 @@
 
 **6.**  Read starlight aberration from any book.
 
-**7.**  Write the transformation rule for the tensor $T(p, q)=T^{ij...(p)}_{klm...(q)}$.
+**7.**  Write the transformation rule for the tensor $T(p, q)=T^{ij...(p)}_{\ \ \ \ \ \ \ \ klm...(q)}$.
 
 **8.**  Check the transformation rules of $\delta^{i} _{j}$ and $\varepsilon _{ijk...}$.
 
