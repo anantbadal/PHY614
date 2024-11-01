@@ -29,4 +29,10 @@ $$ \frac{d\vec{\bf{p}}}{dt}=-\frac{e}{c}\frac{\partial\vec{\bf{A}}}{\partial t}-
 
 **12.**  Read Jackson page 559: point charge with velocity $\vec{\bf{v}}$, $\vec{\bf{E}}$, $\vec{\bf{B}}$ in $S$ and $S'$.
 
-**13.**  
+**13.**  Read page 67 of Landau and Lifshitz.
+
+**14.**  Redo the calculations (neatly) for retarded potential Green function using the contour examined in the class (the LHP contour).
+
+**15.**  Repeat the above analysis for advanced Green's function using the UHP contour.
+
+**16.**  Repeat both the above exercises for the curly contours as drawn in class (semicircles surrounding the poles instead of shifting the axis upward or downward).
