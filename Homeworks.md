@@ -11,7 +11,7 @@
 
 **5.**  Show that for a general boost $\vec{\beta}$, the time coordinates $t'$ and $t$ in the frames $S'$ and $S$ are related by
 
-$\displaystyle t'=\gamma\left(t-\frac{\vec{\beta}\cdot\vec{r}}{c}\right)$
+$$\displaystyle t'=\gamma\left(t-\frac{\vec{\beta}\cdot\vec{r}}{c}\right)$$
 
 **6.**  Read starlight aberration from any book.
 
