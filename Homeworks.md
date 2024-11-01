@@ -23,7 +23,7 @@ $$\displaystyle t'=\gamma\left(t-\frac{\vec{\beta}\cdot\vec{r}}{c}\right)$$
 
 **10.**  Show that:
 
-$\displaystyle \frac{d\vec{\bf{p}}}{dt}=-\frac{e}{c}\frac{\partial\vec{\bf{A}}}{\partial t}-e\bf{\nabla}\phi+\frac{e}{c}\vec{\bf{v}}\times\left(\bf{\nabla}\vec{\bf{A}}\right)$.
+$$ \frac{d\vec{\bf{p}}}{dt}=-\frac{e}{c}\frac{\partial\vec{\bf{A}}}{\partial t}-e\bf{\nabla}\phi+\frac{e}{c}\vec{\bf{v}}\times\left(\bf{\nabla}\vec{\bf{A}}\right)$$
 
 **11.**  Given $F_{ik}$, find $F^{ik}$.
 
